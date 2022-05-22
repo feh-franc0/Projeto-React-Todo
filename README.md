@@ -1,1 +1,1 @@
-# Criando um Item mais complexo
+# Apagando um item da lista

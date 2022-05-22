@@ -1,1 +1,1 @@
-# Marcando um item como realizado
+# Mudando a cara do TODO

@@ -1,1 +1,1 @@
-# Separando mais os componentes
+# Salvando o estado na memória

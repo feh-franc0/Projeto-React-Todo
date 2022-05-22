@@ -1,1 +1,1 @@
-# Mudando a cara do TODO
+# Separando mais os componentes

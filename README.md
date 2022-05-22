@@ -1,1 +1,1 @@
-# Adicionando itens na lista
+# Separando os componentes

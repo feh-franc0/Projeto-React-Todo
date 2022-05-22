@@ -1,1 +1,1 @@
-# Apagando um item da lista
+# Marcando um item como realizado

@@ -1,1 +1,1 @@
-# Criando um Modal - Parte 1 - Estrutura
+# Criando um Modal - Parte 2 - Funcionalidade
